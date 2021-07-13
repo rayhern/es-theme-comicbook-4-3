@@ -71,7 +71,7 @@ Theme Concept based on images posted by: lipebello on Retropie.org.uk/forum
 			<size>0.48 0.756</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.00</horizontalMargin>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.04</fontSize>
 			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
 		
