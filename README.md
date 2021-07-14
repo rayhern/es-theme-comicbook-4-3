@@ -42,4 +42,14 @@
     <platform>videos</platform>
     <theme>videos</theme>
   </system>
+  
+  <system>
+    <name>scripts</name>
+    <fullname>Scripts</fullname>
+    <path>/home/pi/RetroPie/roms/scripts</path>
+    <extension>.py .PY</extension>
+    <command>sudo python3 %ROM%</command>
+    <platform>scripts</platform>
+    <theme>scripts</theme>
+  </system>
 ```
