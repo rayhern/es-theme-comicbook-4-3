@@ -2,7 +2,7 @@
 
 # Add the following to es_systems.cfg
 
-"""
+```
   <system>
     <name>atomiswave</name>
     <fullname>Atomiswave</fullname>
@@ -42,4 +42,4 @@
     <platform>videos</platform>
     <theme>videos</theme>
   </system>
-"""
+```
