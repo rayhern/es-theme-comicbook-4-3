@@ -53,3 +53,7 @@
     <theme>scripts</theme>
   </system>
 ```
+
+# Move the play-video.sh script to the appropriate location. (will require sudo)
+sudo mv play-video.sh /opt/retropie/supplementary/runcommand/
+
